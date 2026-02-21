@@ -30,7 +30,7 @@ The goal is to compare strategic behavior, equilibrium predictions and emergent 
 ## ⚙️ Installation
 
 ```
-git clone `repo`
+git clone https://github.com/Shiwantha-I-Rodrigo/game_theory
 cd game_theory
 pip install -r requirements.txt
 ```
